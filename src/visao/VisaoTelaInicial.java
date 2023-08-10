@@ -59,7 +59,7 @@ public class VisaoTelaInicial extends JFrame {
 		lblNewLabel_1.setBounds(210, 330, 256, 256);
 		lblNewLabel_1.setIcon(new ImageIcon("img/user-interface.png"));
 
-		RoundedButton btnGerenciarUsuarios = new RoundedButton("Gerenciar Usuários");
+		RoundedButton btnGerenciarUsuarios = new RoundedButton("Gerenciar User");
 		btnGerenciarUsuarios.addActionListener(new ActionListener() {
 
 			@Override
